@@ -15,8 +15,13 @@ The primary business objective of this project is twofold:
 The project repository follows a standard structure for organizing the code and related files:
 
 **data**: This directory contains the dataset files used for the analysis.
+
 **notebooks**: This directory contains Jupyter notebooks used for data exploration, analysis, and modeling.
+
 **scripts**: This directory includes Python scripts developed for data preprocessing, feature engineering, and model evaluation.
+
 **reports**: This directory contains the project reports and visualizations generated during the analysis.
+
 **README.md**: This file provides an overview of the project, its objectives, and the project structure.
+
 **requirements.txt**: This file lists the required Python libraries and their versions for reproducing the project environment.
